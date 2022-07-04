@@ -11631,6 +11631,7 @@ textarea.form-control-lg {
 	margin-top: 20px;
 }
 
+
 .single-footer-widget .footer-social li {
 	display: inline-block;
 	/* margin-right: 10px; */
@@ -11829,7 +11830,7 @@ textarea.form-control-lg {
 }
 
 #preloader {
-  background: #1f1e1e url(/images/circle-loader.gif) no-repeat center;
+  background: #1f1e1e url(images/circle-loader.gif) no-repeat center;
   background-size: 25%;
   height: 100vh;
   width: 100%;
